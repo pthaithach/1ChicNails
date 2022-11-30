@@ -1,0 +1,40 @@
+{
+    "data": {
+        "store"     : "Chic Nails",
+        "slug"      : "Chic-nails",
+        "phone"     : "(205) 491-5554",
+        "district"  : "Bessemer",
+        "states"    : "Alabama 35023",
+        "email"     : "thanhtm17@gmail.com",
+        "address"   : "3014 Allison-Bonnett Memorial Dr #114, Bessemer, Alabama 35023",
+        "time_1"    : "Mon: Closed",
+        "time_2"    : "Tue - Thu: 10:00 AM - 06:00 PM",
+        "time_3"    : "Fri - Sat: 09:00 AM - 07:00 PM",
+        "time_4"    : "Sun: 12:00 AM - 06:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/chicnailsbessemer",
+        "instagram" :   "https://www.instagram.com/chicnails_al35023",
+        "google"    :   "https://goo.gl/maps/YkBs335uLAgvTfSY9",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDYwNTJ8Y2hpYzMwMTR8QUxfMDc4NzJ8NDUwYTlmYWFhZjhlZjI1MDM3YjM2OTA2YWY1MzExYzY=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.8579433460714!2d-86.97994274872897!3d33.453007380678784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8888e09d7a62dd59%3A0x9a4fd0735a9c9aad!2sChic%20Nails!5e0!3m2!1sen!2s!4v1669695110417!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#1A1A1A",
+        "primary_light"         :   "#727272",
+        "primary_hover"         :   "#727272",
+        "primary_trans"         :   "rgb(26 26 26 / 70%)",
+        "secondary"             :   "#1B3E46",
+        "secondary_hover"       :   "#386270",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "img",
+    "domain":       "https://pthaithach.github.io/no1chicnails/"
+}
+
